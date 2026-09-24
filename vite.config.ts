@@ -16,4 +16,5 @@ export default defineConfig({
       localsConvention: 'camelCaseOnly',
     },
   },
+  envPrefix: 'VITE_',
 });
